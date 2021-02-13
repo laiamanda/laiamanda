@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @laiamanda (she/her/hers)
 - 👀 I’m interested in web development, UX/UI, and cyber security.
 - 🌱 I’m currently learning more about EJS and Database. I hope to learn React this year.
-- 💞️ I’m looking to collaborate on some fun projects in the near future
+- 💞️ I’m looking to collaborate on some fun projects in the near future.
+- 🏆 My goals, this year, is to land a job, build more websites, and stay healthy.
 - 📫 You can reach me by going to: https://laiamanda.github.io/cv/
 
 <!---
