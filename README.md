@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laiamanda
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning more about EJS and Database
+- 👋 Hi, I’m @laiamanda (she/her/hers)
+- 👀 I’m interested in web development, UX/UI, and cyber security.
+- 🌱 I’m currently learning more about EJS and Database. I hope to learn React this year.
 - 💞️ I’m looking to collaborate on some fun projects in the near future
 - 📫 You can reach me by going to: https://laiamanda.github.io/cv/
 
