@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about Figma and developing my problem solving skills.
 - 💞️ I’m looking to collaborate on some fun projects this year.
 - 🏆 My goals, this year, is to land a full-time position, build more websites, and stay healthy.
-- 🥳 Did my first hackathon, finally learned React, made my cv, and learned Figma.
+- 🥳 Did my first hackathon, finally learned React, made my cv, and landed my first job.
 - 📫 You can reach me by going to: https://laiamanda.github.io/cv/
 
 <!---
