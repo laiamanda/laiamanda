@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laiamanda (she/her/hers)
-- 👀 I’m interested in web development, UX/UI, and cyber security
+- 👀 I’m interested in web development, UX/UI, and cyber-security
 - 🌱 Currently learning Python. I hope to improve my Python and SQL skills this year
 - 💞️ I’m looking to collaborate on some fun projects this year
 - 🏆 My 2022 goals is to build more projects, volunteer more, and stay healthy and happy
