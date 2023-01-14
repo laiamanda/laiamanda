@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @laiamanda (she/her/hers)
 - 👀 I’m interested in web development, UX/UI, and cyber-security
-- 🌱 Currently learning Python. I hope to improve my Python and SQL skills this year
+- 🌱 Currently learning TailwindCSS. I hope to learn TailwindCSS, Sass, Latex and data visualization using Python this year
 - 💞️ I’m looking to collaborate on some fun projects this year
-- 🏆 My 2022 goals is to build more projects, volunteer more, and stay healthy and happy
+- 🏆 My 2023 goals is to mentor at more hackathons, focus more on Frontend Development Projects, and staying healthy and happy
 - 🥳 In 2021, I did my first hackathon. Finally learned React & Vue, made my cv, and landed my first job
 - 🎉 In 2022, I mentored at 5 hackathons. Learned Typescript & Python. Redid my CV. Worked on a CookBook Web App.
 - 📫 You can reach me by going to: https://laiamanda.github.io/cv/
