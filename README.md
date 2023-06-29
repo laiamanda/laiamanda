@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laiamanda (she/her/hers)
 - 👀 I’m interested in web development, UX/UI, and cyber-security
-- 🌱 Currently learning TailwindCSS. I hope to learn TailwindCSS, Sass, Latex and data visualization using Python this year
+- 🌱 Currently learning data analytics with Python. I hope to learn TailwindCSS, Sass, Latex and data visualization using Python this year
 - 💞️ I’m looking to collaborate on some fun projects this year
 - 🏆 My 2023 goals is to experiment, and try new things
 - 🎉 In 2022, I mentored at 5 hackathons. Learned Typescript & Python. Redid my CV. Worked on a CookBook Web App.
