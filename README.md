@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, UX/UI, informational technology, and cyber-security
 - 🌱 Learning more about Renpy
 - 💞️ Absolutly love working on full stack web projects, volunteering for non-profits, and developing my skills
-- 🏆 My 2025  goals is to finish my studies on PHP and build a visual novel video game
+- 🏆 My 2026  goals is to finish my visual novel game, write more lines of code, and get certified in Comptia A+ 
 - 🎉 I mentored over 6+ hackathons and worked with 100+ students (many achieving 1st or 2nd place). Awarded Most Committed Mentor for Creatia 2022. Have over 3+ years of experience in full stack development.
 - 📫 You can reach me by going to: https://laiamanda.github.io/cv/
 
